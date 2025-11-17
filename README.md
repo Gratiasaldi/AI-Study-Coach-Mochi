@@ -8,7 +8,7 @@ Mochi is your **AI-powered study buddy** – a tiny digital coach that helps you
 
 ## ✨ What is Mochi-Coach?
 
-**AI-Study-Coach-Mochi** adalah eksperimen personal productivity + AI + (opsional) device lucu.
+**AI-Study-Coach-Mochi** adalah eksperimen personal productivity + AI + device lucu.
 
 Core idea-nya:
 
